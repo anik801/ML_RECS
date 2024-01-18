@@ -5,7 +5,7 @@ In this project, we propose a machine learning-based methodology to classify and
 
 The research article can be found [here](papers/2023_ML_persona.pdf).
 
-Project Team: [Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/), [Dr. Ray Gao](http://www.raygaoai.com/) (Xinghua), and [Dr. Na Meng](https://people.cs.vt.edu/nm8247/) at Virginia Polytechnic Institute and State University (Virginia Tech).
+Project Team: [Sheik Murad Hassan Anik](https://www.linkedin.com/in/anik801/), [Dr. Ray Gao](http://www.ray-gao.com/) (Xinghua), and [Dr. Na Meng](https://people.cs.vt.edu/nm8247/) at Virginia Polytechnic Institute and State University (Virginia Tech).
 
 Dr. Gao’s work in this project is under an umbrella research program [Internet of Things Enabled Data Acquisition Framework for Smart Building Applications](https://github.com/XinghuaGao/IoT-building-data#internet-of-things-enabled-data-acquisition-framework-for-smart-building-applications), which is initiated by Dr. Gao.
 
@@ -23,6 +23,6 @@ A previous study about Data-Driven Building Occupant Profile (Persona) Developme
 
 [Sheik Murad Hassan Anik (soon to be PhD)](https://www.linkedin.com/in/anik801/)
 
-[Dr. Ray Gao](http://www.raygaoai.com/)
+[Dr. Ray Gao](http://www.ray-gao.com/)
 
 [Dr. Na Meng](https://people.cs.vt.edu/nm8247/)
